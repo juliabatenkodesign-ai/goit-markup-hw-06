@@ -981,7 +981,7 @@ margin: 16px  auto;
 }
 
 .send-icon:hover,
-.send-icon-subscribe:focus {
+.send-icon:focus {
    color: #2e2f42;
   background-color: #404bbf;
 }
