@@ -982,6 +982,12 @@ margin: 16px  auto;
   fill: #fff;
 }
 
+.send-button-subscribe:hover,
+.send-button-subscribe:focus {
+   color: #2e2f42;
+  background-color: #404bbf;
+}
+
 .mobile-menu{
   position: fixed;
   top: 0;
